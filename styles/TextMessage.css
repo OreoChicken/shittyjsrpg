@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.TextMessage {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 36px;
+    padding: 4px;
+    background: var(--menu-background);
+    border-top: 1px solid var(--menu-border-color);
+    color: var(--menu-font-color);
+    font-family: 'Oswald', sans-serif;
+}
+
+.TextMessage_p {
+    margin: 0px;
+    font-size: 12px
+
+}
+
+.TextMessage_button {
+    margin: 0px;
+    font-size: 8px;
+    padding: 0px;
+    -webkit-appearance: none;
+    background: none;
+    border: 0px;
+    font-family: 'Oswald', sans-serif;
+    cursor: pointer;
+
+    position: absolute;
+    right: 2px;
+    bottom: 0px;
+}
