@@ -1,2 +1,2 @@
 # shittyjsrpg
-shitty unfinished web rpg
+fuck you
